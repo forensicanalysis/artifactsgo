@@ -1,5 +1,5 @@
 module github.com/forensicanalysis/artifactsgo
 
-go 1.14
+go 1.16
 
-require github.com/forensicanalysis/artifactlib v0.14.3
+require github.com/forensicanalysis/artifactlib v0.15.1
