@@ -6,12 +6,14 @@ github.com/alecthomas/units v0.0.0-20190924025748-f65c72e2690d/go.mod h1:rBZYJk5
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
-github.com/forensicanalysis/artifactlib v0.15.2 h1:s4OyM97pa706/y1d9ielqrJOrN4RDKQjvj+scowR8VU=
-github.com/forensicanalysis/artifactlib v0.15.2/go.mod h1:qgZmk9Hb6+WNoJ4TjNDHI0Q9D6Q/lxy1Yr7dMaaaB3k=
+github.com/djherbis/times v1.5.0 h1:79myA211VwPhFTqUk8xehWrsEO+zcIZj0zT8mXPVARU=
+github.com/djherbis/times v1.5.0/go.mod h1:5q7FDLvbNg1L/KaBmPcWlVR9NmoKo3+ucqUA3ijQhA0=
+github.com/forensicanalysis/artifactlib v0.16.0 h1:jH3Qpp1U4RSj9TxQz4mjh/31MQn8l9P7N/1rYPJof6I=
+github.com/forensicanalysis/artifactlib v0.16.0/go.mod h1:RSyFzcyTMfASZyzZXQfZVYq7J+OmpiQwU5JmBReXJpI=
 github.com/forensicanalysis/fsdoublestar v0.1.0 h1:t0SuwumE5FQtrw1ZkkNhxQbaWn8LywqdnCpEBX0n/Fc=
 github.com/forensicanalysis/fsdoublestar v0.1.0/go.mod h1:UpG3oKY5UiFTnbxqp4/1h6WuaDtlPZcL6Hu5yI3DsL0=
-github.com/forensicanalysis/fslib v0.15.0 h1:S0yvtljgeyZSbUYtZOb5nG6G+K29EUa4yfdcqTpiwsM=
-github.com/forensicanalysis/fslib v0.15.0/go.mod h1:Ih/gIc8wQEOGCV6nEGOThSCA2yPCQ7y3McOIM6zoSYE=
+github.com/forensicanalysis/fslib v0.15.1 h1:mB30Tn2xwW6+nvV6FLbKqz1BYtHJpt3j3oyHpXGrJCQ=
+github.com/forensicanalysis/fslib v0.15.1/go.mod h1:cFsrRmnHRJkAE4Gbshk8N1myWx1BB7zT/u9+RnPH22M=
 github.com/go-stack/stack v1.8.0/go.mod h1:v0f6uXyyMGvRgIKkXu+yp6POWl0qKG85gN/melR3HDY=
 github.com/hashicorp/golang-lru v0.5.3/go.mod h1:iADmTwqILo4mZ8BN3D2Q6+9jd8WM5uGBxy+E8yxSoD4=
 github.com/hashicorp/golang-lru v0.5.4 h1:YDjusn29QI/Das2iO9M0BHnIbxPeyuCHsjMW+lJfyTc=
@@ -22,8 +24,7 @@ github.com/kr/pretty v0.1.0/go.mod h1:dAy3ld7l9f0ibDNOQOHHMYYIIbhfbHSm3C4ZsoJORN
 github.com/kr/pty v1.1.1/go.mod h1:pFQYn66WHrOpPYNljwOMqo10TkYh1fy3cYio2l3bCsQ=
 github.com/kr/text v0.1.0 h1:45sCR5RtlFHMR4UwH9sdQ5TC8v0qDQCHnXt+kaKSTVE=
 github.com/kr/text v0.1.0/go.mod h1:4Jbv+DJW3UT/LiOwJeYQe1efqtUx/iVham/4vfdArNI=
-github.com/looplab/tarjan v0.0.0-20161115091335-9cc6d6cebfb5 h1:vftH1+M/WLO9G/fKoaNF2lXss91zJWSqtWNZcbDi+6A=
-github.com/looplab/tarjan v0.0.0-20161115091335-9cc6d6cebfb5/go.mod h1:UdhGtNhHaLG+AAsRpyd4g+zJTgciwo+qwK6FJAoCQFU=
+github.com/looplab/tarjan v0.1.0/go.mod h1:3CvPAapzS1ESsE1ql7MXbad+ENQS21SsfatXQpXFqEo=
 github.com/mattn/go-colorable v0.1.8/go.mod h1:u6P/XSegPjTcexA+o6vUJrdnUu04hMope9wVRipJSqc=
 github.com/mattn/go-isatty v0.0.12/go.mod h1:cbi8OIDigv2wuxKPP5vlRcQ1OAZbq2CE4Kysco4FUpU=
 github.com/mattn/go-runewidth v0.0.3/go.mod h1:LwmH8dsx7+W8Uxz3IHJYH5QSwggIsqBzpuz5H//U1FU=
@@ -50,8 +51,6 @@ gopkg.in/alecthomas/kingpin.v2 v2.2.6/go.mod h1:FMv+mEhP44yOT+4EoQTLFTRgOQ1FBLks
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
 gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15 h1:YR8cESwS4TdDjEe65xsg0ogRM/Nc3DYOhEAlW+xobZo=
 gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
-gopkg.in/djherbis/times.v1 v1.2.0 h1:UCvDKl1L/fmBygl2Y7hubXCnY7t4Yj46ZrBFNUipFbM=
-gopkg.in/djherbis/times.v1 v1.2.0/go.mod h1:AQlg6unIsrsCEdQYhTzERy542dz6SFdQFZFv6mUY0P8=
 gopkg.in/yaml.v2 v2.2.2/go.mod h1:hI93XBmqTisBFMUTm0b8Fm+jr3Dg1NNxqwp+5A1VGuI=
 gopkg.in/yaml.v2 v2.2.4/go.mod h1:hI93XBmqTisBFMUTm0b8Fm+jr3Dg1NNxqwp+5A1VGuI=
 gopkg.in/yaml.v2 v2.4.0 h1:D8xgwECY7CYvx+Y2n4sBz93Jn9JRvxdiyyo8CTfuKaY=
